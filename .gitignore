@@ -1,0 +1,16 @@
+# Ambiente virtual do Python
+.venv/
+env/
+venv/
+
+# Arquivos de cache e compilação do Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.sqlite3
+
+# Configurações do editor e sistema operacional
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
